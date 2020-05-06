@@ -1,0 +1,12 @@
+.text{
+    color: #0629ec;
+}
+#Überschrift{
+    border: 2px solid #345678;
+}
+p{
+    font-size: 18px;
+}
+p[class]{
+    font-weight: 800;
+}
